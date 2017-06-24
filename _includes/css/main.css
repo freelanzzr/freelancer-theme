@@ -86,6 +86,11 @@ header {
     background: #{{ site.color.primary }};
 }
 
+/*CHANGE HEADER A TAG COLOR HERE*/
+header a:hover{
+    color: black;
+}
+
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
