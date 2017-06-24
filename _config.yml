@@ -10,8 +10,8 @@ meta_author: Liu Vega
 
 # ADDITIONS - CUSTOM HEADINGS FOR PORTFOLIO PROJECTS
 headings:
-  - sketch: Sketch
-  - work: Work
+  sketch: Sketch
+  work: Work
 
 # Google webmaster tools
 google_verify:
