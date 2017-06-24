@@ -32,6 +32,10 @@ a.active {
     color: gray;
 
 }
+/* TESING */
+.row {
+    background: red;
+}
 
 h1,
 h2,
@@ -257,6 +261,8 @@ section.success {
 
 #portfolio * {
     z-index: 2;
+    margin: 0 auto;
+    padding: 3px;
 }
 
 @media(min-width:767px) {
