@@ -25,6 +25,11 @@ a.active {
     color: #{{ site.color.primary }};
 }
 
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
+    color: gray;
+
+}
+
 h1,
 h2,
 h3,
