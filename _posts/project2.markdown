@@ -1,9 +1,9 @@
 ---
 layout: default
 type: Work
-modal-id: 1
-img: work1.jpg
-alt: work1
+modal-id: 2
+img: work2.jpg
+alt: work2
 project-date: June 2016
 client: HHB Geriatric Healthcare Co.
 category: Graphic Design
