@@ -1,9 +1,9 @@
 ---
 layout: default
 type: Work
-modal-id: 8
-img: work8.jpg
-alt: work8
+modal-id: 2
+img: work2.jpg
+alt: work2
 project-date: December 2015
 client: KSD
 category: Graphic Design
