@@ -3,7 +3,7 @@ title: Vega Liu
 email: qwert736@hotmail.com
 url: https://freelanzzr.github.io/vegaliu/
 baseurl: /vegaliu
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Vega Liu Portfolio"
 keywords: "vega, liu, graphic designer, developer, UI design, graphics,web,illustrator,photoshop"
 skills: "Web Developer - Graphic Designer - Project Developer"
 meta_author: Liu Vega
@@ -36,7 +36,7 @@ color:
   secondary: B4B4B4 #2c3e50 #FD6E8A
   secondary-dark: B4B4B4 #233140 #A2122F
   text: fff
-  menu: DEDEDE
+  menu: 8B4513
 
 # Footer settings
 footer:
