@@ -22,16 +22,16 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    /*color: #{{ site.color.primary }};*/
+    color: #{{ site.color.text }};
 }
 
-/* ADD */
+/* ADD
 .navbar-default .navbar-nav>.active>a, 
 .navbar-default .navbar-nav>.active>a:hover, 
 .navbar-default .navbar-nav>.active>a:focus{
     color: gray;
 
-}
+}*/
 
 h1,
 h2,
@@ -92,11 +92,6 @@ header {
     text-align: center;
     color: #fff; /*CHANGE HEADER FONT COLOR HERE*/
     background: #{{ site.color.primary }};
-}
-
-/*CHANGE HEADER A TAG COLOR HERE*/
-header a:hover{
-    color: black;
 }
 
 header .container {
@@ -232,7 +227,9 @@ section.success {
 }
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
-    opacity: 1;
+    /*opacity: 1;*/
+    opacity: 0.5;
+    border-radius: 20px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {

@@ -35,6 +35,7 @@ color:
   primary-rgb: "180, 180, 180" #"24,288,156" #"128,179,255"
   secondary: B4B4B4 #2c3e50 #FD6E8A
   secondary-dark: B4B4B4 #233140 #A2122F
+  text: fff
 
 # Footer settings
 footer:
