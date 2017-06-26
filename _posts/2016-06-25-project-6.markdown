@@ -1,6 +1,6 @@
 ---
 layout: default
-type: Major Work Projects
+type: Work Projects
 modal-id: 4
 img: work4.jpg
 alt: work4
