@@ -5,13 +5,16 @@ url: https://freelanzzr.github.io/vegaliu/
 baseurl: /vegaliu
 description: "Vega Liu Portfolio"
 keywords: "vega, liu, graphic designer, developer, UI design, graphics,web,illustrator,photoshop"
-skills: "Web Developer - Graphic Designer - Project Developer"
+skills: "Designer - Web Developer - Project Developer"
 meta_author: Liu Vega
 
 # ADDITIONS - CUSTOM HEADINGS FOR PORTFOLIO PROJECTS
 headings:
-  - Work
-  - Sketch
+  - Major Work Projects
+  - Sketch & Illustrations
+  - Catalogue Design
+  - Photography
+
 
 # Google webmaster tools
 google_verify:
