@@ -1,12 +1,12 @@
 ---
 layout: default
 type: Sketch & Illustrations
-modal-id: 13
-img: sketch3.jpg
-alt: sketch3
+modal-id: 18
+img: sketch8.jpg
+alt: sketch8
 project-date: June 2016
 client: Personal Work
-category: Illustration
+category: Sketch
 description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
 
 ---

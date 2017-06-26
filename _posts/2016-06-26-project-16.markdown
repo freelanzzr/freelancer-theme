@@ -2,8 +2,8 @@
 layout: default
 type: Sketch & Illustrations
 modal-id: 16
-img: sketch7.jpg
-alt: sketch7
+img: sketch6.jpg
+alt: sketch6
 project-date: June 2016
 client: Personal Work
 category: Sketch

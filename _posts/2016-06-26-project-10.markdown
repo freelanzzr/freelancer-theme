@@ -2,8 +2,8 @@
 layout: default
 type: Sketch & Illustrations
 modal-id: 10
-img: sketch1.jpg
-alt: sketch1
+img: sketch0.jpg
+alt: sketch0
 project-date: June 2016
 client: Carrefour
 category: Illustration
