@@ -179,6 +179,10 @@ header .intro-text .skills {
     border: 0;
 }
 
+.navbar-nav>.active>a {
+    background-color: #{{ site.color.menu }} !important;
+}
+
 section {
     padding: 100px 0;
 }
@@ -455,10 +459,6 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
-}
-
-.navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary-dark }} !important;
 }
 
 /* Fix modal mouse wheel issues */
