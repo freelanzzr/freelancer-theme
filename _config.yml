@@ -4,8 +4,8 @@ email: qwert736@hotmail.com
 url: https://freelanzzr.github.io/vegaliu/
 baseurl: /vegaliu
 description: "Vega Liu Portfolio"
-keywords: "vega, liu, graphic designer, developer, UI design, graphics,web,illustrator,photoshop"
-skills: "Designer - Web Developer - Project Developer"
+keywords: "graphic designer, developer, UI design, graphics, illustrator, photoshop, frontend, package design"
+skills: "Graphic Designer - Frontend Developer - Project Developer"
 meta_author: Liu Vega
 
 # ADDITIONS - CUSTOM HEADINGS FOR PORTFOLIO PROJECTS
@@ -32,10 +32,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: B4B4B4 #18bc9c #80B3FF
+  primary: 00b999 #18bc9c #80B3FF
   primary-rgb: "180, 180, 180" #"24,288,156" #"128,179,255"
-  secondary: B4B4B4 #2c3e50 #FD6E8A
-  secondary-dark: B4B4B4 #233140 #A2122F
+  secondary: 00b999 #2c3e50 #FD6E8A
+  secondary-dark: 00b999 #233140 #A2122F
   text: fff
   menu: 7b7b7b
 
